@@ -1,0 +1,16 @@
+<div class="container">
+    <h1 class="text-center text-secondary fw-bold"><u>Indian special food recipes</u></h1>
+    <div class="row my-3">
+        <div class="col-md-3" *ngFor="let food of foodItems">
+            <div class="card text-center my-3">
+                <a routerLink="/details" target="_self"><img [src]="food.imageUrl" alt="image" width="100%" height="230px" class="m-md-auto"></a>
+                <div class="card-body">
+                    <h2 class="fw-bold">{{food.name}}</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="text-center mb-5">
+    <a routerLink="/recipe"><button class="btn btn-outline-success">Add-New-Recipe</button></a>
+    </div>
+</div>

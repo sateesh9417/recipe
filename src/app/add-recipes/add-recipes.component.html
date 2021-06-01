@@ -1,0 +1,30 @@
+<div class="container">
+    <div class="col-5 my-4 mx-auto">
+        <legend class="text-center fw-bold py-2"><u>Add Tasty Recipe details</u></legend>
+        <form action="" class="fw-bold" #addRecipeForm="ngForm" (ngSubmit)="onSubmit(addRecipeForm)">
+            <div class="form-group">
+                <label for="name" class="form-label">Recipe Name:</label>
+                <input class="form-control" #name ngModel placeholder="enter recipe name" id="name" name="name">
+            </div>
+            <div class="form-group">
+                <label for="origin" class="form-label">Origin:</label>
+                <input class="form-control" #origin ngModel placeholder="enter origin" id="origin" name="origin">
+            </div>
+            <div class="form-group">
+                <label for="imageUrl" class="form-label">ImageUrl:</label>
+                <input class="form-control" #imageUrl ngModel placeholder="enter imageUrl" id="imageUrl" name="imageUrl">
+            </div>
+            <div class="form-group">
+                <label for="description" class="form-label">Description:</label>
+                <textarea name="description" #description ngModel id="description" cols="30" rows="5" class="form-control" placeholder="enter description...."></textarea>
+            </div>
+            <div class="btns">
+                <a routerLink="/home"><button class="btn btn-primary">Go to Home</button></a>
+                <button class="btn btn-success sub">Submit</button><br>
+            </div>
+            <div class="text-center">
+                <a routerLink="/food" class="fw-bold">Check your added new food-recipe</a>
+            </div>
+        </form>
+    </div>
+</div>

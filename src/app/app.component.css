@@ -1,0 +1,61 @@
+ng-sidebar-container{
+    height: 100vh;
+}
+::ng-deep .ng-sidebar{
+    background-color: rgb(186, 236, 68);
+    width: 250px;
+    padding: 5px 8px;
+    z-index: 0;
+}
+::ng-deep .ng-sidebar .cross{
+    float: right;
+    cursor: pointer;
+}
+.menu{
+    margin-top: 5px;
+}
+.sidebarBtn{
+   width: 15%;
+   padding: 50px 0 0 35px;
+}
+.head{
+    width: 70%;
+}
+.head img{
+    border-radius:150px;
+    padding-top: 5px;
+}
+.main{
+    display: flex;
+}
+.navbar{
+    padding:0 0 10px 0 !important;
+}
+.navbar-nav{
+    margin-right: 0 !important;
+}
+.para{
+    font-size: 45px;
+    padding:25px 0;
+    text-shadow: 2px 2px 2px skyblue;
+}
+a{
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+}
+.main-header{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+   background:linear-gradient(rgb(179, 110, 121),rgb(88, 88, 224),rgb(10, 228, 65));
+}
+.nav-item{
+    padding-right: 55px;
+}
+a:hover{
+    color: rgb(245, 243, 241) !important;
+}
+.navbar-toggler{
+    border: 2px solid rgb(56, 54, 54);
+}

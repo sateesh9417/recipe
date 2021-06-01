@@ -1,0 +1,23 @@
+.col-5{
+    box-shadow: 2px 2px 10px 1px #555;
+    border-radius: 25px;
+    padding: 25px;
+    background-color: rgb(235, 150, 23);
+}
+.btns{
+    width: 300px;
+    margin: 15px auto;
+}
+.sub{
+    float:right;
+}
+.form-group{
+    padding: 5px 0;
+}
+.text-center a{
+    color: indigo;
+}
+.text-center a:hover{
+    color: maroon;
+}
+

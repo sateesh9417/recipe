@@ -1,0 +1,81 @@
+{
+  "food-items": [
+    {
+      "id": "101",
+      "name": "Banana Curry",
+      "origin": "India",
+      "imageUrl": "https://realfood.tesco.com/media/images/HE-BANANACURRY-4b711d1e-441b-4732-9473-3b5751c3c440-0-472x310.jpg",
+      "description": "Tasty sweet curry,.. This interesting curry is made with green bananas– but it’s not sweet! When boiled and stewed, green bananas taste like cassava or potatoes. Tamarind is the pulp from a seedpod and adds a tangy, rich flavor. It’s not necessary, but it makes the recipe amazing!"
+    },
+    {
+      "id": "102",
+      "name": "Paneer Salad",
+      "origin": "India",
+      "imageUrl": "https://joyfilledeats.com/wp-content/uploads/2017/05/grilled-paneer-salad-5.jpg",
+      "description": "Good Tasty,,This Grilled Paneer Salad is the perfect way to satisfy your Indian craving in warmer weather. Paneer cheese, sweet peppers, and onions are coated with a cilantro-mint chutney and grilled to perfection. This easy recipe is low carb, keto-friendly, gluten-free, grain-free, sugar-free, and Trim Healthy Mama friendly."
+    },
+    {
+      "id": "103",
+      "name": "Vagan Coconut Curry",
+      "origin": "India",
+      "imageUrl": "https://www.veggiesdontbite.com/wp-content/uploads/2018/11/easy-vegan-thai-coconut-curry-soup-56.jpg",
+      "description": "awesomen tasty curry,This creamy Vegan Red Thai Coconut curry is full of delicious veggies and covered with a thick, coconut sauce. It’s the perfect winter warmer for these cold evenings!"
+    },
+    {
+      "id": "104",
+      "name": "Vagan Korma",
+      "origin": "India",
+      "imageUrl": "https://myfancypantry.files.wordpress.com/2012/04/untitled-04473.jpg",
+      "description": "Tasty curry,Quick and Easy Vegetable Korma gets it’s creaminess from cashews and coconut milk. Chock full of vegetables and mildly spiced, this korma comes together in just 30 minutes! Gluten free and vegan."
+    },
+    {
+      "id": "105",
+      "name": "Mushroom Bhaji",
+      "origin": "India",
+      "imageUrl": "https://www.vegandietfood.com/wp-content/uploads/2021/04/Mushroom-Bhaji.jpg",
+      "description": "Tasty curry,Indian mushroom bhaji is probably the easiest Indian dish that I know of! It’s so simple and quick to make, uses very basic ingredients and full of flavor! Make it in just 10-15 minutes, and you’ll have a wondferful Indian dish ready to be enjoyed."
+    },
+    {
+      "id": "106",
+      "name": "Tofu in Indian Sauce",
+      "origin": "India",
+      "imageUrl": "https://www.easycookingwithmolly.com/wp-content/uploads/2019/07/Tofu-Curry-indian.jpg",
+      "description": "Tasty sweet curry,This flavorful Tofu in Indian Sauce is so mouthwatering and delicious. The complex mix of spices gives it so much flavor. It's a simple and easy dish to prepare, and it doesn't have to be spicy. In fact, the spices are more for flavor than heat, so this can be served to the whole family. Kids will love the yummy flavors and textures of this scrumptious meal."
+    },
+    {
+      "id": "107",
+      "name": "Beetroot Sabzi",
+      "origin": "India Ambrosia",
+      "imageUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/10/beetroot-bhaji-recipe-1.jpg",
+      "description": "Healthy and Tasty food,This beetroot bhaji has the sweetness of beetroots and coconut along with some heat Coming from the green chilies & dry red chilies. The spices added also contribute their own flavors.Beetroots are rich in iron, calcium and minerals and there are various ways you can include them in your meals."
+    },
+    {
+      "id": "108",
+      "name": "Vegetable Pakoras",
+      "origin": "Veggie Desserts",
+      "imageUrl": "https://www.flavourstreat.com/wp-content/uploads/2019/07/mixed-pakora-576x700.jpg",
+      "description": "Tasty sweet curry,pakora or veg pakora, a popular Indian deep fried snacks gains special importance in the monsoon season, when everybody yearns for something spicy and crunchy to munch on as a monsoon snack. vegetable pakora are inseparable from Indian Party menus!"
+    },
+    {
+      "name": "idli",
+      "origin": "srikalahasti",
+      "imageUrl": "https://images.livemint.com/rf/Image-920x613/LiveMint/Period1/2015/10/17/Photos/idli-kFvH--621x414@LiveMint.jpg",
+      "description": "tasty indian breakfast",
+      "id": "bS594uy"
+    },
+    {
+      "name": "Carrot Recipe",
+      "origin": "Chennai",
+      "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/10/carrot-curry-008.jpg",
+      "description": "Tasty and healthy carrot recipe,this is very famous curry in north India , especially chennai and Andhra Pradesh.This is one of the simple and tasty recipe ,for making this ,it will take around 25 minutes.",
+      "id": "K0r11gn"
+    },
+    {
+      "name": "Panang Curry",
+      "origin": "Nellore Special",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDep5RUt9uHNTUuoKaH09GwR5OxCVYofYn0Q&usqp=CAU",
+      "description": "Tasty panang vegetarian curry, very famous for North India.",
+      "id": "uNvVPq9"
+    }
+  ]
+}
